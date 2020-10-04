@@ -1,0 +1,41 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "project",
+  "author": "ES",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "5.10.1",
+    "@nuxtjs/svg": "0.1.6",
+    "@nuxtjs/svg-sprite": "^0.4.10",
+    "cross-env": "7.0.0",
+    "normalize.css": "8.0.1",
+    "nuxt": "^2.14.6",
+    "nuxt-webfontloader": "1.1.0",
+    "vue-inputmask": "^0.2.1",
+    "vue-range-slider": "^0.6.0",
+    "vuelidate": "0.7.4",
+    "vue-multiselect": "^2.1.6"
+  },
+  "devDependencies": {
+    "cssnano": "4.1.10",
+    "cssnano-preset-advanced": "4.0.7",
+    "imagemin-mozjpeg": "8.0.0",
+    "imagemin-webpack-plugin": "2.4.2",
+    "postcss-custom-media": "^7.0.8",
+    "postcss-flexbugs-fixes": "^4.2.0",
+    "postcss-hexrgba": "2.0.0",
+    "postcss-import": "^12.0.1",
+    "postcss-nested": "4.2.1",
+    "postcss-preset-env": "^6.7.0",
+    "postcss-responsive-type": "1.0.0",
+    "postcss-url": "8.0.0",
+    "svg4everybody": "^2.1.9"
+  }
+}

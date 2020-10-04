@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Hyundai-Sans-Head-Office";
+    font-display: swap;
+    src: local("HyundaiSansHeadOffice-Regular"),
+    local("HyundaiSansHeadOffice-Regular"),
+    url('../../../fonts/HyundaiOffice/HyundaiSansHeadOffice-Regular.woff2') format('woff2'),
+    url('../../../fonts/HyundaiOffice/HyundaiSansHeadOffice-Regular.woff') format('woff');
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Hyundai-Sans-Head-Office";
+    font-display: swap;
+    src: local("HyundaiSansTextOffice-Medium"),
+    local("HyundaiSansTextOffice-Medium"),
+    url('../../../fonts/HyundaiOffice/HyundaiSansTextOffice-Medium.woff2') format('woff2'),
+    url('../../../fonts/HyundaiOffice/HyundaiSansTextOffice-Medium.woff') format('woff');
+    font-weight: 500;
+}
